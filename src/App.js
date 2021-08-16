@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Calculator from './views/calculator'
+import Home from './views/homePage'
+import Calculations from './views/calculations'
+import { Switch, Route, Link } from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/calculator">calculator</Link>
+          </li>
+          <li>
+            <Link to="/calculations">Recent Calculations</Link>
+          </li>
+        </ul>
+
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Switch>
+          <Route path="/calculator">
+            <Calculator />
+          </Route>
+          <Route path="/Calculations">
+            <Calculations />
+          </Route>
+        </Switch>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

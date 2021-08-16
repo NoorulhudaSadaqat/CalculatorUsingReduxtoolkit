@@ -1,0 +1,13 @@
+.inputClass{
+width:450px;
+    height: 81px;
+    border:1px solid #000;
+    padding:10px 20px;
+    font-size:29px;
+    background: black;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: #dedede;
+    border-bottom: 2px solid #cc4014;
+    color: #dedede;
+}
