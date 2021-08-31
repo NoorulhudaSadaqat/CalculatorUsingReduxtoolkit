@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/css/main.caa45240.chunk.css",
+    "main.js": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/main.9f5d7479.chunk.js",
+    "main.js.map": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/main.9f5d7479.chunk.js.map",
+    "runtime-main.js": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/runtime-main.e474d5ea.js",
+    "runtime-main.js.map": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/runtime-main.e474d5ea.js.map",
+    "static/js/2.93c44e92.chunk.js": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/2.93c44e92.chunk.js",
+    "static/js/2.93c44e92.chunk.js.map": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/2.93c44e92.chunk.js.map",
+    "static/js/3.87af66fc.chunk.js": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/3.87af66fc.chunk.js",
+    "static/js/3.87af66fc.chunk.js.map": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/3.87af66fc.chunk.js.map",
+    "index.html": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/index.html",
+    "static/css/main.caa45240.chunk.css.map": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/css/main.caa45240.chunk.css.map",
+    "static/js/2.93c44e92.chunk.js.LICENSE.txt": "/NoorulhudaSadaqat.github.io/CalculatorUsingReduxtoolkit/static/js/2.93c44e92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e474d5ea.js",
+    "static/js/2.93c44e92.chunk.js",
+    "static/css/main.caa45240.chunk.css",
+    "static/js/main.9f5d7479.chunk.js"
+  ]
+}
